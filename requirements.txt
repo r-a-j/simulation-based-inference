@@ -1,0 +1,12 @@
+# Data science & stats
+numpy
+scipy
+matplotlib
+seaborn
+
+# Bayesian inference
+bayesflow==2.0.5
+
+# Deep learning
+tensorflow[and-cuda]
+keras

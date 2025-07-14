@@ -17,7 +17,7 @@ for a single-compartment **leaky integrate-and-fire (LIF) neuron**.
 
 ---
 
-## 1 · Quick start
+## 1 · Quick start (Recommended Linux)
 
 ```bash
 # clone and install
