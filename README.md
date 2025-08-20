@@ -1,7 +1,7 @@
 # Simulation-based inference for a leaky integrate-and-fire (LIF) neuron
 
 <div align="center">
-<img src="https://github.com/r-a-j/simulation-based-inference/blob/main/neuron.png" width="300">
+<img src="https://raw.githubusercontent.com/r-a-j/simulation-based-inference/main/neuron.png" width="300">
 </div>
 
 *BayesFlow* + TensorFlow implementation of a likelihood-free inference pipeline
